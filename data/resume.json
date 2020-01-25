@@ -1,70 +1,169 @@
 {
+  "header": {
+    "photo": "assets/images/profile.jpg",
+    "name": "Dhiraj Sharma",
+    "title": ["Software Engineer", "Full Stack Developer"],
+    "email": "sharma.dhiraj414@outlook.com",
+    "phone": "+1 (206) 550-7183",
+    "social": {
+      "linkedin": {
+        "display": "linkedin.com/in/imdhirajsharma/",
+        "url": "https://www.linkedin.com/in/imdhirajsharma"
+      },
+      "github": {
+        "display": "github.com/dhirajsharma",
+        "url": "https://www.github.com/dhirajsharma"
+      },
+      "website": {
+        "display": "dhirajsharma.github.io",
+        "url": "http://dhirajsharma.github.io/"
+      },
+      "file-user": {
+        "display": "Resume",
+        "url": ""
+      }
+    },
+    "resume": "assets/pdf/dhirajsharma.pdf"
+  },
+  "experience": {
+    "summary": "Experienced in the Cloud/Business software application development, High Performance Computing, Infrastructure Support and Services.",
+    "points": [
+      "Strong hold on Data Structures and algorithms with understanding of native data structure as well as implementation of their variants.",
+      "Proficient and having strong knowledge of developing stable business applications with high IT security following complete SDLC.",
+      "Strong server administration, troubleshooting skills and good understanding of system administration and development protocols.",
+      "Good exposure in Project Management Process Groups on a solution implementation for IT E-commerce & Infrastructure application development.",
+      "Good Communication, Interpersonal and Client Interfacing skills with the ability to manage work pressure and timelines effectively.",
+      "With holding versatile skill set (Developer, Analyst & System administrator), result oriented, innovative thought process and eagerness to learn."
+    ]
+  },
   "jobs": [
     {
       "company": "Amazon Inc.",
-      "start": 2019,
-      "end": "Present",
+      "time": "2019 - Present",
       "location": "Seattle - WA",
       "position": "Software Development Engineer",
-      "role": [
+      "role": "",
+      "resposibilities": [
         "Working to enhance music entertainment experience on and through Alexa app.",
         "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
         "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
         "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
         "Handle on-call shifts once in two months for each service of the team."
-      ]
-    }, {
-      "company": "Amazon Inc.",
-      "start": 2019,
-      "end": "Present",
-      "location": "Seattle - WA",
-      "position": "Software Development Engineer",
-      "role": [
-        "Working to enhance music entertainment experience on and through Alexa app.",
-        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
-        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
-        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
-        "Handle on-call shifts once in two months for each service of the team."
-      ]
-    }, {
-      "company": "Amazon Inc.",
-      "start": 2019,
-      "end": "Present",
-      "location": "Seattle - WA",
-      "position": "Software Development Engineer",
-      "role": [
-        "Working to enhance music entertainment experience on and through Alexa app.",
-        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
-        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
-        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
-        "Handle on-call shifts once in two months for each service of the team."
-      ]
-    }, {
-      "company": "Amazon Inc.",
-      "start": 2019,
-      "end": "Present",
-      "location": "Seattle - WA",
-      "position": "Software Development Engineer",
-      "role": [
-        "Working to enhance music entertainment experience on and through Alexa app.",
-        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
-        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
-        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
-        "Handle on-call shifts once in two months for each service of the team."
-      ]
-    }, {
-      "company": "Amazon Inc.",
-      "start": 2019,
-      "end": "Present",
-      "location": "Seattle - WA",
-      "position": "Software Development Engineer",
-      "role": [
-        "Working to enhance music entertainment experience on and through Alexa app.",
-        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
-        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
-        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
-        "Handle on-call shifts once in two months for each service of the team."
+      ],
+      "technologies": [
+        "Java",
+        "React",
+        "React-Native",
+        "Gulp",
+        "Ruby",
+        "Kotlin"
       ]
     }
-  ]
+  ],
+  "skills": [{
+    "Frontend": [{
+      "JavaScript (Preferred)": 90,
+      "React": 70,
+      "JQuery": 90,
+      "Node.js": 80,
+      "HTML/CSS/SASS/LESS": 95
+    }],
+    "Backend": [{
+      "Java (Preferred)": 85,
+      "Php": 70,
+      "Ruby": 70,
+      "Python": 70
+    }],
+    "Mobile": [{
+      "React Native": 70
+    }],
+    "Database": [{
+      "MySql": 85,
+      "PostgreSql": 70,
+      "Oracle": 70
+    }],
+    "Server": [{
+      "LAMP": 90,
+      "LDAP": 80,
+      "SSH": 95,
+      "DNS/BIND": 90,
+      "NFS": 90,
+      "NIS": 90,
+      "DHCP": 85,
+      "FTP": 85,
+      "PUPPET": 70
+    }],
+    "Web Server": [{
+      "Apache": 90,
+      "Tomcat": 80,
+      "Nginx": 80,
+      "Node": 80
+    }],
+    "Others": [{
+      "Responsive Web Development": 80,
+      "Gulp": 85,
+      "Grunt": 85,
+      "Spring": 90,
+      "JPA": 90,
+      "Regex": 85,
+      "LateX": 80,
+      "Shell Scripting": 85,
+      "Jersey & Jackson": 90}]
+  }],
+  "education": [{
+    "degree": "M.S - Computer Science",
+    "school": "Texas A&M University",
+    "location": "Kingsville, TX",
+    "time": "2014 - 2016",
+    "gpa": "3.72"
+  }, {
+    "degree": "BTech - Computer Engineering",
+    "school": "Rajasthan Technical University",
+    "location": "Rajasthan, INDIA",
+    "time": "2008 - 2012",
+    "gpa": "3.50"
+  }],
+  "certification": [{
+    "name": "RHCE",
+    "title": "Red Hat Certified Engineer",
+    "description": [
+      "Understand and use essential tools for handling files, directories, command-line environments, and documentation",
+      "Operate running systems, including booting into different run levels, identifying processes, starting and stopping virtual machines, and controlling services",
+      "Configure local storage using partitions and logical volumes",
+      "Create and configure file systems and file system attributes, such as permissions, encryption, access control lists, and network file systems",
+      "Deploy, configure, and maintain systems, including software installation, update, and core services",
+      "Manage users and groups, including use of a centralized directory for authentication",
+      "Manage security, including basic firewall and SELinux configuration"
+    ]
+  },{
+    "name": "RHS333 & EX333",
+    "title": "Red Hat Certified Specialist in Security: Network Services",
+    "description": [
+      "Mastering basic service security",
+      "Understanding and using cryptographic tools",
+      "Securing Berkley Internet Name Domain (BIND) and Domain Name Service (DNS)",
+      "Hardening remote procedure call (RPC) services",
+      "Using Kerberos for centrally managed user authentication",
+      "Improving network file system (NFS) security with Kerberos and NFSv4",
+      "Using secure shell (SSH) for tunneling and other advanced purposes",
+      "Building a secure email infrastructure",
+      "Securing File Transfer Protocol (FTP) and HTTP services",
+      "Conducting basic intrusion detection and response"
+    ]
+  }, {
+    "name": "RH423 & EX423",
+    "title": "Red Hat Certified Specialist in Directory Services and Authentication",
+    "description": [
+      "Understanding and use basic LDAP concepts",
+      "Installing, configuring, and managing Red Hat Directory Server.",
+      "Managing authentication on Red Hat Enterprise Linux® systems using pluggable authentication modules (PAM) and glibc name switch service (NSS).",
+      "Using Kerberos and LDAP to centrally manage user authentication.",
+      "Configuring Red Hat Enterprise Linux systems to use Microsoft Active Directory for authentication."
+    ]
+  }],
+  "languages": {
+    "native": "Hindi",
+    "professional": ["English"]
+  },
+  "interests": ["Cricket", "Basketball", "Climbing"]
 }
