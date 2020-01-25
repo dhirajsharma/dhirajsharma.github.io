@@ -1,0 +1,70 @@
+{
+  "jobs": [
+    {
+      "company": "Amazon Inc.",
+      "start": 2019,
+      "end": "Present",
+      "location": "Seattle - WA",
+      "position": "Software Development Engineer",
+      "role": [
+        "Working to enhance music entertainment experience on and through Alexa app.",
+        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
+        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
+        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
+        "Handle on-call shifts once in two months for each service of the team."
+      ]
+    }, {
+      "company": "Amazon Inc.",
+      "start": 2019,
+      "end": "Present",
+      "location": "Seattle - WA",
+      "position": "Software Development Engineer",
+      "role": [
+        "Working to enhance music entertainment experience on and through Alexa app.",
+        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
+        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
+        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
+        "Handle on-call shifts once in two months for each service of the team."
+      ]
+    }, {
+      "company": "Amazon Inc.",
+      "start": 2019,
+      "end": "Present",
+      "location": "Seattle - WA",
+      "position": "Software Development Engineer",
+      "role": [
+        "Working to enhance music entertainment experience on and through Alexa app.",
+        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
+        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
+        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
+        "Handle on-call shifts once in two months for each service of the team."
+      ]
+    }, {
+      "company": "Amazon Inc.",
+      "start": 2019,
+      "end": "Present",
+      "location": "Seattle - WA",
+      "position": "Software Development Engineer",
+      "role": [
+        "Working to enhance music entertainment experience on and through Alexa app.",
+        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
+        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
+        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
+        "Handle on-call shifts once in two months for each service of the team."
+      ]
+    }, {
+      "company": "Amazon Inc.",
+      "start": 2019,
+      "end": "Present",
+      "location": "Seattle - WA",
+      "position": "Software Development Engineer",
+      "role": [
+        "Working to enhance music entertainment experience on and through Alexa app.",
+        "Build new feature of the app, using React Native, and building services in Java and Kotlin.",
+        "Design, build and maintain high scale Infrastructure of music experience as Infrastructure as Code.",
+        "Create and deploy monitoring alarms for services and apps, to monitor health of service and application.",
+        "Handle on-call shifts once in two months for each service of the team."
+      ]
+    }
+  ]
+}
